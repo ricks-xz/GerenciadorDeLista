@@ -1,0 +1,15 @@
+C:\Users\admin\Downloads\C#\ListaDeCompras\bin\Debug\net9.0\ListaDeCompras.exe
+C:\Users\admin\Downloads\C#\ListaDeCompras\bin\Debug\net9.0\ListaDeCompras.deps.json
+C:\Users\admin\Downloads\C#\ListaDeCompras\bin\Debug\net9.0\ListaDeCompras.runtimeconfig.json
+C:\Users\admin\Downloads\C#\ListaDeCompras\bin\Debug\net9.0\ListaDeCompras.dll
+C:\Users\admin\Downloads\C#\ListaDeCompras\bin\Debug\net9.0\ListaDeCompras.pdb
+C:\Users\admin\Downloads\C#\ListaDeCompras\obj\Debug\net9.0\ListaDeCompras.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\admin\Downloads\C#\ListaDeCompras\obj\Debug\net9.0\ListaDeCompras.AssemblyInfoInputs.cache
+C:\Users\admin\Downloads\C#\ListaDeCompras\obj\Debug\net9.0\ListaDeCompras.AssemblyInfo.cs
+C:\Users\admin\Downloads\C#\ListaDeCompras\obj\Debug\net9.0\ListaDeCompras.csproj.CoreCompileInputs.cache
+C:\Users\admin\Downloads\C#\ListaDeCompras\obj\Debug\net9.0\ListaDeCompras.sourcelink.json
+C:\Users\admin\Downloads\C#\ListaDeCompras\obj\Debug\net9.0\ListaDeCompras.dll
+C:\Users\admin\Downloads\C#\ListaDeCompras\obj\Debug\net9.0\refint\ListaDeCompras.dll
+C:\Users\admin\Downloads\C#\ListaDeCompras\obj\Debug\net9.0\ListaDeCompras.pdb
+C:\Users\admin\Downloads\C#\ListaDeCompras\obj\Debug\net9.0\ListaDeCompras.genruntimeconfig.cache
+C:\Users\admin\Downloads\C#\ListaDeCompras\obj\Debug\net9.0\ref\ListaDeCompras.dll

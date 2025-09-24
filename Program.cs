@@ -103,7 +103,7 @@ namespace ListaDeCompras
 
                                     if (exitChoice == "1")
                                     {
-                                        Console.WriteLine("Lista não salva. Saindo do programa...");
+                                        Console.WriteLine("<-- Programa encerrado. -->");
                                         return;
                                     }
                                     else if (exitChoice == "2")

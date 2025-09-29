@@ -97,8 +97,8 @@ namespace ListaDeCompras
                                 bool backMenu = false;
                                 while (!backMenu)
                                 {
-                                    Console.WriteLine("1. Sair e encerrar o programa");
-                                    Console.WriteLine("2. Voltar ao menu principal");
+                                    Console.WriteLine("1. Sair e encerrar o programa.");
+                                    Console.WriteLine("2. Voltar ao menu principal.");
                                     string exitChoice = Console.ReadLine();
 
                                     if (exitChoice == "1")

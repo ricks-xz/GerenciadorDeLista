@@ -20,7 +20,7 @@ namespace ListaDeCompras
 
             while (true)
             {
-                Console.WriteLine("\n<---- Lista de Compras ---->");
+                Console.WriteLine("\n<--- Lista de Compras --->");
                 Console.WriteLine("\nEscolha uma opção abaixo: ");
                 Console.WriteLine("1. Adicionar item");
                 Console.WriteLine("2. Remover item");
